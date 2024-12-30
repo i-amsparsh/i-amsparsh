@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi i am Sparsh Sharma i am a student doing diploma in computer science Some of my skill include python,HTML,Javascript etc.
+hi i am Sparsh Sharma i am a student doing b.tech in computer science Some of my skill include python,HTML,Javascript etc.
 
 
 ## 🌐 Socials:
